@@ -24,6 +24,10 @@ After logging in, a few things have changed. You can notice the navigation butto
 You can create a new post by click on the new-post button on the home page
 ![](previewimages/newpostpage.png)
 
+## Update - Delete
+You can directly update delete posts made by you using the buttons visible
+![](previewimages/updatedelete.png)
+
 ## Profile page
 Your profile page is your account details, which is also editable instantly, with the profile photo as well.
 ![](previewimages/profilepage.png)
