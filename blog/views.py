@@ -12,6 +12,7 @@ def home(request):
 
 
 class PostListView(generic.ListView):
+    paginate_by = 3
     model = Post
     template_name = 'blog/home.html'
     context_object_name = 'posts'
